@@ -1,0 +1,5 @@
+arcade==3.3.3
+Pillow
+numpy
+shapely==2.1.2
+pyglet==2.1.11
